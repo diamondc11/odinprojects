@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+
+p{
+    padding: 50px;
+    color: blueviolet;
+    background-color: orange;
+    font-size: 20px;
+    border: solid
+}
+
+ol{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+ul{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ingredients
+{
+    border: solid pink 10px;
+}
+
+img{
+    border-radius: 100px;
+    border: solid 5px greenyellow;
+}
